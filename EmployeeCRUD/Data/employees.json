@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "EmployeeCode": "IN1001",
+      "EmployeeName": "Hariharan S",
+      "Department": "Development",
+      "Designation": "Developer",
+      "Location": "Chennai",
+      "EmailID": "shariharan301@gmail.com"
+    },
+    {
+      "EmployeeCode": "IN1003",
+      "EmployeeName": "Ravi Teja",
+      "Department": "Testing",
+      "Designation": "Tester",
+      "Location": "Chennai",
+      "EmailID": "shariharan301@gmail.com"
+    },
+    {
+      "EmployeeCode": "IN1004",
+      "EmployeeName": "Sriram G",
+      "Department": "Development",
+      "Designation": "Developer",
+      "Location": "Bangalore",
+      "EmailID": "shariharan301@gmail.com"
+    }
+  ]
+}
